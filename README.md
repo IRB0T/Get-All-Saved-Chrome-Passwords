@@ -1,4 +1,4 @@
-# Get-All-Saved-Chrome-Passwords
+# Get-All-Saved-Chrome-Passwords (OS : Winodws)
 In this python script we will see how to access saved passwords of chrome browser. 
 We will create passwords.txt file in which we will put all Saved Passwords of Chrome Browser. 
 
